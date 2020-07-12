@@ -6,7 +6,7 @@
 
 ## Welcome to my Github!
 
-My name is Daniel, I'm a Computer Science student at Universidade Federal da Paraíba (UFPB), currently studying Front End Development.
+My name is Daniel, I'm a student at Universidade Federal da Paraíba (UFPB), currently studying Front End Development.
 
 - 🎓 Graduating in Computer Science
 - 📚 I’m currently learning ReactJS, NodeJS and UI/UX
