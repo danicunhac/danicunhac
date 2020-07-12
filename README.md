@@ -8,6 +8,6 @@
 
 My name is Daniel, I'm a student at Universidade Federal da Paraíba (UFPB), currently studying Front End Development.
 
-- 🎓 Graduating in Computer Science
+- 🎓 Graduating in Computer Science | 5th Period
 - 📚 I’m currently learning ReactJS, NodeJS and UI/UX
 - 🎯 "Slowly, and always" - Author Unknown
