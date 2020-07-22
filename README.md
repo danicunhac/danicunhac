@@ -1,9 +1,11 @@
 <h1 align="center"> Welcome to my Github! </h1>
+
 <p align="center">
   
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dacokid?tab=repositories)](https://github.com/dacokid?tab=repositories)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielcunhac/)](https://www.linkedin.com/in/danielcunhac/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielcc.jp@gmail.com)](mailto:danielcc.jp@gmail.com)
+<p align="center">
+<a href="https://linkedin.com/in/danielcunhac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="danielcunhac" height="20" width="20" /></a>
+<a href="https://instagram.com/danielcunhaac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="danielcunhaac" height="20" width="20" /></a>
+</p>
   
 </p>
 
