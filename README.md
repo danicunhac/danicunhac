@@ -5,6 +5,8 @@
 <p align="center">
 <a href="https://linkedin.com/in/danielcunhac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="danielcunhac" height="20" width="20" /></a>
 <a href="https://instagram.com/danielcunhaac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="danielcunhaac" height="20" width="20" /></a>
+<a href="https://dev.to/dacokid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dacokid" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/13982460/daniel-cunha?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/13982460/daniel-cunha?tab=profile" height="20" width="20" /></a>
 </p>
   
 </p>
