@@ -12,13 +12,13 @@
 </p>
 
 <h4 align="center">
-  My name is <em>Daniel</em>, I'm a student at Universidade Federal da Paraíba (UFPB), currently studying Front-End Development.
+  My name is <em>Daniel</em>, I'm a student at Universidade Federal da Paraíba (UFPB), currently a front-end developer.
 </h4>
   <h4 align="center">
  🎓 Graduating in Computer Science | 5th Period 
    </h4>
   <h4 align="center">
- 📚 I’m currently learning ReactJS, NodeJS and UI/UX
+ 📚 I’m currently learning ReactJS, NodeJS & GraphQL
   </h4>
   <h4 align="center">
  🎯 "Slowly, and always" - Author Unknown
