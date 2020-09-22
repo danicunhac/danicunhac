@@ -18,7 +18,7 @@
  🎓 Graduating in Computer Science | 5th Period 
    </h4>
   <h4 align="center">
- 📚 I’m currently learning ReactJS, NodeJS & GraphQL
+ 📚 Never stop studying
   </h4>
   <h4 align="center">
  🎯 "Slowly, and always" - Author Unknown
