@@ -15,7 +15,7 @@
   My name is <em>Daniel</em>, I'm a student at Universidade Federal da Paraíba (UFPB), currently a front-end developer.
 </h4>
   <h4 align="center">
- 🎓 Graduating in Computer Science | 5th Period 
+ 🎓 Graduating in Computer Science
    </h4>
   <h4 align="center">
  📚 Never stop studying
