@@ -18,7 +18,7 @@
  🎓 Graduating in Computer Science
    </h4>
   <h4 align="center">
- 📚 Student at Rocketseat
+ 📚 Student at Rocketseat 🚀
   </h4>
   <h4 align="center">
  🎯 "Slowly, and always" - Author Unknown
