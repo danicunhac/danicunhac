@@ -1,5 +1,5 @@
-<h1 align="center"> Daniel Cunha <h1>
-
+<h1 align="center"> Daniel Cunha </h1>
+ 
 <h4 align="center">💻 Developer @SparkMobile.</h4>
 <h4 align="center">🎓 Graduating in Computer Science @UFPB</h4>
 <h4 align="center">📚 Student at Rocketseat 🚀</h4>
