@@ -2,7 +2,7 @@
  
 <h4 align="center">💻 Developer @SparkMobile.</h4>
 <h4 align="center">🎓 Graduating in Computer Science @UFPB</h4>
-<h4 align="center">📚 Student at Rocketseat 🚀</h4>
+<h4 align="center">📚 Student @Rocketseat 🚀</h4>
 <h4 align="center">🎯 "Slowly, and always" - Author Unknown</h4>
 
 <p align="center">
