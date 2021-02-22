@@ -2,7 +2,7 @@
  
 <h4 align="center">💻 Software Developer @ Germanicos Bespoke Tailor.</h4>
 <h4 align="center">🎓 Graduating in Software Analysis and Development @ UNIPE</h4>
-<h4 align="center">📚 Student @ Rocketseat GoStack 🚀</h4>
+<h4 align="center">📚 Student @ Rocketseat 🚀</h4>
 <h4 align="center">🎯 "Slowly, and always" - Author Unknown</h4>
 
 <p align="center">
