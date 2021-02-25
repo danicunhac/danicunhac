@@ -10,10 +10,10 @@
 
 <p align="left">
   <p>
-  <code>📚 Ignite 🔥 Bootcamp Student @ Rocketseat 🚀</code>
+  <code>📚 Ignite 🔥 Bootcamp Student at Rocketseat 🚀</code>
   </p>
   <p>
-  <code>🎓 Graduating in Software Analysis and Development @ UNIPE</code>
+  <code>🎓 Graduating in Software Analysis and Development at UNIPE</code>
   </p> 
   <p>
   <code>🎯 "Slowly, and always" - Author Unknown</code>
