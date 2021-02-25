@@ -20,7 +20,5 @@
   </p> 
 </p>
 
-<hr />
-
-### 📧 Reach me at discord
+## 📧 Reach me at discord
 <h3 align="left"><img src="https://i.imgur.com/MHwyBfU.png" /></h3>
