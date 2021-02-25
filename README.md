@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/SgKD1To.png" />
+ <img src="https://i.imgur.com/MHwyBfU.png" />
 </p>
  
 <p align="center">💻 Software Developer @ Germanicos Bespoke Tailor.</p>
