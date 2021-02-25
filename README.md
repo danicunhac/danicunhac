@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
-<h2 align="left">Welcome 💜</h2>
+## Welcome 💜
 <p>
   💻 I'm a software developer at Germanicos Tailor.
 </p>
