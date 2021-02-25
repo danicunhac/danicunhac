@@ -6,7 +6,7 @@
 </p>
 
 
-## 🚀 Details
+### 🚀 Details
 
 <p align="left">
   <p>
@@ -20,5 +20,7 @@
   </p> 
 </p>
 
-<h2 align="left">📧 Reach me at discord</h2>
+<hr />
+
+### 📧 Reach me at discord
 <h3 align="left"><img src="https://i.imgur.com/MHwyBfU.png" /></h3>
