@@ -13,11 +13,11 @@
   <code>📚 Ignite 🔥 Bootcamp Student @ Rocketseat 🚀</code>
   </p>
   <p>
+  <code>🎓 Graduating in Software Analysis and Development @ UNIPE</code>
+  </p> 
+  <p>
   <code>🎯 "Slowly, and always" - Author Unknown</code>
   </p>
-  <p>
-   <code>🎓 Graduating in Software Analysis and Development @ UNIPE</code>
-  </p> 
 </p>
 
 ## 📧 Reach me at discord
