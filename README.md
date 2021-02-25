@@ -1,12 +1,24 @@
-<p align="center">
- <img src="https://i.imgur.com/MHwyBfU.png" />
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
+
+<h2 align="left">Welcome 💜</h2>
+<p>
+  💻 I'm a software developer at Germanicos Tailor.
 </p>
 
-<p align="center">💻 Software Developer @ Germanicos Bespoke Tailor.</p>
-<p align="center">📚 Ignite 🔥 Bootcamp Student @ Rocketseat 🚀</p>
-<p align="center">🎯 "Slowly, and always" - Author Unknown</p>
-<p align="center">🎓 Graduating in Software Analysis and Development @ UNIPE</p>
 
- <p align="center">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Creative-Tail-rocket.svg/250px-Creative-Tail-rocket.svg.png" />
+## 🚀 Details
+
+<p align="left">
+  <p>
+  <code>📚 Ignite 🔥 Bootcamp Student @ Rocketseat 🚀</code>
+  </p>
+  <p>
+  <code>🎯 "Slowly, and always" - Author Unknown</code>
+  </p>
+  <p>
+   <code>🎓 Graduating in Software Analysis and Development @ UNIPE</code>
+  </p> 
 </p>
+
+<h2 align="left">📧 Reach me at discord</h2>
+<h3 align="left"><img src="https://i.imgur.com/MHwyBfU.png" /></h3>
