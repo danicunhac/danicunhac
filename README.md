@@ -2,7 +2,7 @@
 
 ## Welcome 💜
 <p>
-  💻 This is a software developer github!
+  💻 This is a software developer's github!
 </p>
 <p>
   💼 Working at Germanicos Tailor.
