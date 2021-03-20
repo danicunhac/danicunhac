@@ -5,7 +5,7 @@
   💻 This is a software developer's github!
 </p>
 <p>
-  💼 Working at Germanicos Tailor.
+  💼 Working at Foton Tech
 </p>
 
 
