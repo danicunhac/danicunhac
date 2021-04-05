@@ -5,7 +5,7 @@
   💻 This is a software developer's github!
 </p>
 <p>
-  💼 Working at Foton Tech
+  🐲 Working at Foton Tech
 </p>
 
 
