@@ -16,7 +16,7 @@
   <code>📚 Ignite 🔥 Bootcamp Student at Rocketseat 🚀</code>
   </p>
   <p>
-  <code>🎓 Graduating in Software Analysis and Development at UNIPE</code>
+  <code>🎓 Graduating in Software Analysis and Development</code>
   </p> 
   <p>
   <code>🎯 "Slowly, and always" - Author Unknown</code>
