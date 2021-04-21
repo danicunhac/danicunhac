@@ -13,12 +13,12 @@
 
 <p align="left">
   <p>
-  <code>📚 Ignite 🔥 Bootcamp Student at Rocketseat 🚀</code>
+  📚 Ignite 🔥 Bootcamp Student at Rocketseat 🚀
   </p>
   <p>
-  <code>🎓 Graduating in Software Analysis and Development</code>
+  🎓 Graduating in Software Analysis and Development
   </p> 
   <p>
-  <code>🎯 "Slowly, and always" - Author Unknown</code>
+  🎯 "Slowly, and always" - Author Unknown
   </p>
 </p>
