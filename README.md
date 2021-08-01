@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/OUWVC2s.png" align="right" alt="React" width="180">
+<img src="https://svgshare.com/i/Zjo.svg" align="right" alt="React" width="180">
 
 ## Welcome 💜
 <p>
