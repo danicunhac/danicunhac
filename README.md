@@ -1,19 +1,20 @@
 <img src="https://svgshare.com/i/Zjo.svg" align="right" alt="React" width="180">
 
-## Welcome 💜
+## 🧑🏻‍💻 Who am I
 <p>
-  💻 This is a software developer's github!
+  💻 Software Engineer and technology passionate
 </p>
 <p>
-  🐲 Working at Foton Tech
+  🥷🏽 Team Lead at Foton Tech, working with a lovely team
 </p>
+<p>
+  💍 Engaged with an extremely pretty and talented woman
 
+## 📓 More details
 
-## 🚀 Details
-
-<p align="left">
+<p>
   <p>
-  📚 Ignite 🔥 Bootcamp Student at Rocketseat 🚀
+  📚 Ignite Bootcamp student at Rocketseat
   </p>
   <p>
   🎓 Graduating in Software Analysis and Development
