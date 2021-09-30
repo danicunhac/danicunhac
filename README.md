@@ -2,10 +2,10 @@
 
 ## 🧑🏻‍💻 Who am I
 <p>
-  💻 Software Engineer and technology passionate
+  💻 Technology passionate
 </p>
 <p>
-  🥷🏽 Team Lead at Foton Tech, working with a lovely team
+  🥷🏽 Software Engineer at Adalo
 </p>
 <p>
   💍 Engaged with an extremely pretty and talented woman
