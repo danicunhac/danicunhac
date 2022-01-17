@@ -14,9 +14,6 @@
 
 <p>
   <p>
-  📚 Ignite Bootcamp student at Rocketseat
-  </p>
-  <p>
   🎓 Graduating in Software Analysis and Development
   </p> 
   <p>
