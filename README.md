@@ -1,4 +1,4 @@
-<img src="https://svgshare.com/i/Zjo.svg" align="right" alt="React" width="180">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" align="right" alt="TypeScript" width="180">
 
 ## 🧑🏻‍💻 Who am I
 <p>
