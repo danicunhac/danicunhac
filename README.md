@@ -3,21 +3,20 @@
   💻 Technology passionate
 </p>
 <p>
-  🥷🏽 Software Engineer at Adalo
+  ✨ Software Engineer at Adalo
 </p>
 <p>
-  💍 Engaged with an extremely pretty and talented woman
+  💍  Engaged with an extremely pretty and talented woman
 
 ## 📓 More details
 
 <p>
   <p>
-  🎓 Graduating in Software Analysis and Development
-  </p> 
-  <p>
-  🎯 "Slowly, and always" - Author Unknown
+  🎓  Graduating in Software Analysis and Development
   </p>
-</p>
+  <p>
+  🦀  Currently learning Rust
+  </p>
 
 ## 🎖 Insignia
 <p>
