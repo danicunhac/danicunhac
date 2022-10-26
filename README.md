@@ -17,6 +17,9 @@
   <p>
   🦀  Currently learning Rust
   </p>
+  <p>
+  🕸 Visit my website to reach my socials! https://danicunhac.com
+  </p>
 
 ## 🎖 Insignia
 <p>
