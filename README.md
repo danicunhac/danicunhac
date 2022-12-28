@@ -15,7 +15,7 @@
   🎓  Graduating in Software Analysis and Development
   </p>
   <p>
-  🦀  Currently learning Rust
+  🦀  Currently learning a lot of stuff
   </p>
   <p>
   🕸 Visit my website to reach my socials! https://danicunhac.com
