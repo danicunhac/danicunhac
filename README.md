@@ -12,7 +12,7 @@
 
 <p>
   <p>
-  🎓  Graduating in Software Analysis and Development
+  🎓  Tech Degree in Software Analysis and Development
   </p>
   <p>
   🦀  Currently learning a lot of stuff
