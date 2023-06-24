@@ -33,6 +33,7 @@
 <img src="https://developers.google.com/static/profile/badges/activity/android/install-android-studio/badge.svg" width="100" height="100" />
 <img src="https://app.codesignal.com/user-icons/arcade/arcade_levels_1.svg" width="90" height="90" />
 <img src="https://app.codesignal.com/user-icons/solved/solved_5.svg" width="90" height="90" />
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--v58Tv0Ow--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/228/Github_Badges-03__1_.png" width="100" height="100" />
 
 
 </p>
