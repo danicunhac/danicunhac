@@ -6,7 +6,7 @@
   ✨ Software Engineer at Adalo
 </p>
 <p>
-  💍  Engaged with an extremely pretty and talented woman
+  💍  Married to an extremely pretty and talented woman
 </p>
 <p>
   👶🏻 Incoming dad!
