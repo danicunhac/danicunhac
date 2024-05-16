@@ -12,7 +12,7 @@
   👶🏻 Incoming dad!
 </p>
 <p>
-   👨🏻 Creator of https://dailydadjoke.app
+  👨🏻 Creator of https://dailydadjoke.app
 </p>
 <p>
   🕸 Visit my website to reach my socials! https://danicunhac.com
