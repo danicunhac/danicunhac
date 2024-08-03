@@ -9,7 +9,7 @@
   💍  Married to an extremely pretty and talented woman
 </p>
 <p>
-  👶🏻 Incoming dad!
+  👶🏻 Father of a pretty little girl
 </p>
 <p>
   👨🏻 Creator of https://dailydadjoke.app
