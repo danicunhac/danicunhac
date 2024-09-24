@@ -3,7 +3,7 @@
   💻 Technology passionate
 </p>
 <p>
-  ✨ Software Engineer at Adalo
+  ✨ Software Engineer & Evangelist at Adalo
 </p>
 <p>
   💍  Married to an extremely pretty and talented woman
