@@ -10,7 +10,7 @@
 </p>
 
 ## 🇧🇷 Languages
-<p>Portuguese (Native or Bilingual)</p>
+<p>Portuguese (Native)</p>
 <p>English (Fluent)</p>
 <p>Italian (Intermediary)</p>
 <p>Spanish (Elementary)</p>
