@@ -1,5 +1,5 @@
 ## 🧑🏻‍💻 Who am I
-<p>✨ Passionate to code since 2015 as a freshman in high school.</p>
+<p>✨ Passionate to code since 2015 as a freshman in high school</p>
 <p>👶🏻 Father of a pretty little girl named Alice</p>
 <p>💍 Married to an extremely talented and pretty veterinarian</p>
 
