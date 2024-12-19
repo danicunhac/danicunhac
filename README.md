@@ -4,7 +4,11 @@
 <p>💍 Married to an extremely talented and pretty veterinarian</p>
 
 ## 📚 Education
-<p><strong>Centro Universitário de João Pessoa</strong></p>
+<p><strong>Federal Institute of Paraíba</strong></p>
+<p>
+  Master's degree, Information Technology - Incoming student of the 2025 class.
+</p>
+<p><strong>Univeristy Center of João Pessoa</strong></p>
 <p>
   BTech, Software Analysis and Development
 </p>
