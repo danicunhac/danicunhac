@@ -6,7 +6,7 @@
 ## 📚 Education
 <p><strong>Federal Institute of Paraíba</strong></p>
 <p>
-  Master's degree, Information Technology - Incoming student of the 2025 class.
+  Master's degree, Information Technology - Incoming student in 2025
 </p>
 <p><strong>Univeristy Center of João Pessoa</strong></p>
 <p>
